@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TheBakeryApp
+build_property.RootNamespace = TheBakeryApp
+build_property.ProjectDir = C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Produto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Produto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Produto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Produto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Produto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Venda/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Venda/CupomFiscal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFcQ3Vwb21GaXNjYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Venda/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Venda/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Venda/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Venda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ranie/source/repos/TheBakeryApp/TheBakeryApp/TheBakeryApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9ayjeqc2aq
