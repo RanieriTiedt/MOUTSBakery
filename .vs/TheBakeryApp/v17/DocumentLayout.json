@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\pages\\venda\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\pages\\venda\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\pages\\venda\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\pages\\venda\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\services\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\services\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\pages\\cliente\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\pages\\cliente\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\pages\\venda\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\pages\\venda\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\pages\\venda\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\pages\\venda\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\model\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\model\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\model\\vendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\model\\vendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\interfaces\\ivenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\interfaces\\ivenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|c:\\users\\ranie\\source\\repos\\thebakeryapp\\thebakeryapp\\thebakeryapp\\migrations\\20240924211639_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E15273-0FFE-45F6-B8E0-2E2921DAF8BA}|TheBakeryApp\\TheBakeryApp.csproj|solutionrelative:thebakeryapp\\migrations\\20240924211639_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MoutsBakeryDB/True/SqlTable/dbo.Vendas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Create.cshtml",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Pages\\Venda\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Create.cshtml",
+              "RelativeToolTip": "TheBakeryApp\\Pages\\Venda\\Create.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T23:33:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Model\\Produto.cs",
+              "RelativeToolTip": "TheBakeryApp\\Model\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:34:03.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Cliente\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Pages\\Cliente\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Cliente\\Create.cshtml.cs",
+              "RelativeToolTip": "TheBakeryApp\\Pages\\Cliente\\Create.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:32:26.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Program.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Program.cs",
+              "RelativeToolTip": "TheBakeryApp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:15:37.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Services\\ClienteService.cs",
+              "RelativeToolTip": "TheBakeryApp\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:58:16.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICliente.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Interfaces\\ICliente.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Interfaces\\ICliente.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Interfaces\\ICliente.cs",
+              "RelativeToolTip": "TheBakeryApp\\Interfaces\\ICliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:36:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Model\\Cliente.cs",
+              "RelativeToolTip": "TheBakeryApp\\Model\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:34:27.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VendaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Model\\VendaProduto.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Model\\VendaProduto.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Model\\VendaProduto.cs",
+              "RelativeToolTip": "TheBakeryApp\\Model\\VendaProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:19:25.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendaService.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Services\\VendaService.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Services\\VendaService.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Services\\VendaService.cs",
+              "RelativeToolTip": "TheBakeryApp\\Services\\VendaService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:27:46.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Pages\\Venda\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Create.cshtml.cs",
+              "RelativeToolTip": "TheBakeryApp\\Pages\\Venda\\Create.cshtml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wEYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:39:09.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Controller\\ClienteController.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Controller\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Controller\\ClienteController.cs",
+              "RelativeToolTip": "TheBakeryApp\\Controller\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:52:09.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TheBakeryApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T23:23:42.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Model\\Venda.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Model\\Venda.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Model\\Venda.cs",
+              "RelativeToolTip": "TheBakeryApp\\Model\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:11:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Infrastructure\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Infrastructure\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Infrastructure\\AppDBContext.cs",
+              "RelativeToolTip": "TheBakeryApp\\Infrastructure\\AppDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:58:06.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Pages\\Venda\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Details.cshtml.cs",
+              "RelativeToolTip": "TheBakeryApp\\Pages\\Venda\\Details.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:53:30.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Details.cshtml",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Pages\\Venda\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Details.cshtml",
+              "RelativeToolTip": "TheBakeryApp\\Pages\\Venda\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T21:51:20.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IVenda.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Interfaces\\IVenda.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Interfaces\\IVenda.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Interfaces\\IVenda.cs",
+              "RelativeToolTip": "TheBakeryApp\\Interfaces\\IVenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:47:32.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Vendas [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MoutsBakeryDB/True/SqlTable/dbo.Vendas.sql",
+              "ToolTip": "dbo.Vendas [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-24T21:36:11.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240924211639_second.cs",
+              "DocumentMoniker": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Migrations\\20240924211639_second.cs",
+              "RelativeDocumentMoniker": "TheBakeryApp\\Migrations\\20240924211639_second.cs",
+              "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Migrations\\20240924211639_second.cs",
+              "RelativeToolTip": "TheBakeryApp\\Migrations\\20240924211639_second.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:16:39.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

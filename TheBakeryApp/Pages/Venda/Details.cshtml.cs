@@ -6,17 +6,17 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using TheBakeryApp.Infrastructure;
+using TheBakeryApp.Interfaces;
 using TheBakeryApp.Model;
 
 namespace TheBakeryApp.Pages.Venda
 {
     public class DetailsModel : PageModel
     {
-        private readonly TheBakeryApp.Infrastructure.AppDBContext _context;
-
-        public DetailsModel(TheBakeryApp.Infrastructure.AppDBContext context)
+        private readonly IVenda _venda;
+        public DetailsModel(IVenda venda)
         {
-            _context = context;
+            _venda = venda;
         }
 
         public TheBakeryApp.Model.Venda Venda { get; set; } = default!;
@@ -28,7 +28,7 @@ namespace TheBakeryApp.Pages.Venda
                 return NotFound();
             }
 
-            var venda = await _context.Vendas.FirstOrDefaultAsync(m => m.Id == id);
+            var venda = await _venda.BuscarVendaPorId(id.Value);
             if (venda == null)
             {
                 return NotFound();

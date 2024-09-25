@@ -5,6 +5,7 @@ namespace TheBakeryApp.Interfaces
 {
     public interface IVenda
     {
-        Task CriarNovaVenda(Venda venda);
+        Task<int> CriarNovaVenda(Venda venda);
+        Task<Venda> BuscarVendaPorId(int id);
     }
 }

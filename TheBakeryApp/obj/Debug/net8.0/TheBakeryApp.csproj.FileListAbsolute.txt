@@ -534,3 +534,9 @@ C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\obj\Debug\net
 C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\obj\Debug\net8.0\TheBakeryApp.genruntimeconfig.cache
 C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\obj\Debug\net8.0\ref\TheBakeryApp.dll
 C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\obj\Debug\net8.0\TheBakeryApp.sourcelink.json
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\obj\Debug\net8.0\TheBakeryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,4 +1,6 @@
-﻿namespace TheBakeryApp.Interfaces;
+﻿using TheBakeryApp.Model;
+
+namespace TheBakeryApp.Interfaces;
 
 public interface ICliente
 {
@@ -8,4 +10,5 @@ public interface ICliente
     Task<Model.Cliente> UpdateCliente(Model.Cliente cliente);
     Task AdicionarCliente(Model.Cliente cliente);
     Task RemoverCliente(int id);
+    Task<Cliente> BuscaPontoClientePorCPF(string cpf);
 }

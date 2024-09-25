@@ -66,9 +66,9 @@ namespace TheBakeryApp.Pages.Venda
                 Venda.VendasProduto.Add(vendaProduto);
             }
 
-            await _venda.CriarNovaVenda(Venda);
+            var criaVenda = await _venda.CriarNovaVenda(Venda);
 
-            return Redirect("./CupomFiscal/Index");
+            return Redirect($"./Details?id={criaVenda}");
         }
     }
 }

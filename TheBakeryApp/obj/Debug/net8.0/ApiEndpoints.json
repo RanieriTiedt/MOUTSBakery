@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "TheBakeryApp.Controller.ClienteController",
+    "Method": "GetPontosCliente",
+    "RelativePath": "api/Cliente/{cpf}/pontos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

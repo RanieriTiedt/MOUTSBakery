@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using TheBakeryApp.Infrastructure;
 using TheBakeryApp.Interfaces;
 using TheBakeryApp.Model;
@@ -37,7 +39,10 @@ public class ClienteService : ICliente
 
     public async Task AdicionarCliente(Model.Cliente cliente)
     {
-        //FAÇAM MUITOS IFS PRA VALIDAR AQUI
+        if(cliente.Fidelizado && cliente.Pontos == null)
+        {
+            cliente.Pontos = 0;
+        }
         _context.Clientes.Add(cliente);
         await _context.SaveChangesAsync();
     }
@@ -46,5 +51,11 @@ public class ClienteService : ICliente
     {
         var getProduct = await GetClienteById(id);
         _context.Remove(getProduct);
+    }
+
+    public async Task<Cliente> BuscaPontoClientePorCPF(string cpf)
+    {
+        return await _context.Clientes.FirstOrDefaultAsync(x => x.CPF == cpf);
+
     }
 }
