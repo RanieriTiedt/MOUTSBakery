@@ -34,7 +34,7 @@
 
             <div class="form-group">
                 <label asp-for="Venda.Total" class="control-label"></label>
-                <input asp-for="Venda.Total" class="form-control" readonly step="0.01" type="number" />
+                <input asp-for="Venda.Total" class="form-control" readonly type="number" />
                 <span asp-validation-for="Venda.Total" class="text-danger"></span>
             </div>
 
@@ -67,21 +67,24 @@
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
     <script>
-        function updateTotal() {
-            let total = 0;
-            const produtosContainer = document.getElementById('produtosContainer');
-            const checkboxes = produtosContainer.querySelectorAll('input[type="checkbox"]:checked');
+       function updateTotal() {
+    let total = 0;
+    const produtosContainer = document.getElementById('produtosContainer');
+    const checkboxes = produtosContainer.querySelectorAll('input[type="checkbox"]:checked');
 
-            checkboxes.forEach(checkbox => {
-                const produtoId = checkbox.value;
-                const quantidadeInput = document.getElementById(`quantidade_${produtoId}`);
-                const quantidade = parseInt(quantidadeInput.value) || 0;
-                const precoProduto = parseFloat(checkbox.getAttribute('data-preco')) || 0;
+    checkboxes.forEach(checkbox => {
+        const produtoId = checkbox.value;
+        const quantidadeInput = document.getElementById(`quantidade_${produtoId}`);
+        
+        // Garantindo que as variáveis sejam números de ponto flutuante
+        const quantidade = parseFloat(quantidadeInput.value);
+        const precoProduto = parseFloat(checkbox.getAttribute('data-preco'));
 
-                total += quantidade * precoProduto;
-            });
+        total += quantidade * precoProduto;
+    });
 
-            document.querySelector('input[name="Venda.Total"]').value = total.toFixed(2);
-        }
+    // Exibir o valor com duas casas decimais
+    document.querySelector('input[name="Venda.Total"]').value = total.toFixed(2);
+}
     </script>
 }

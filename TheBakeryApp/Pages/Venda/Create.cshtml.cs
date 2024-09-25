@@ -54,6 +54,7 @@ namespace TheBakeryApp.Pages.Venda
 
             // Coletar os IDs dos produtos selecionados
             var produtosSelecionados = Request.Form["produtosSelecionados"];
+
             foreach (var produtoId in produtosSelecionados)
             {
                 // Adiciona o produto à venda
@@ -62,7 +63,6 @@ namespace TheBakeryApp.Pages.Venda
                     ProdutoId = int.Parse(produtoId),
                     Quantidade = int.Parse(Request.Form[$"VendasProduto[{produtoId}].Quantidade"])
                 };
-
                 Venda.VendasProduto.Add(vendaProduto);
             }
 

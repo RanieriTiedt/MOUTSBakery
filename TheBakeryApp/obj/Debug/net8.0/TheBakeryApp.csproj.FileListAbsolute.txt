@@ -540,3 +540,9 @@ C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net
 C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\obj\Debug\net8.0\TheBakeryApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Microsoft.Azure.Management.Storage.Fluent.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\ranie\source\repos\TheBakeryApp\TheBakeryApp\TheBakeryApp\bin\Debug\net8.0\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll

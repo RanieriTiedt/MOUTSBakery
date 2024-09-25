@@ -77,7 +77,7 @@ app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "TheBakeryApp v1");
-    c.RoutePrefix = string.Empty; // Faz o Swagger estar disponível na raiz ('/')
+    c.RoutePrefix = "swagger"; // Faz o Swagger estar disponível na raiz ('/')
 });
 
 app.UseHttpsRedirection();
@@ -89,5 +89,10 @@ app.UseAuthorization();
 // Mapear Razor Pages e Endpoints
 app.MapRazorPages();
 app.MapControllers();
+
+app.MapGet("/Index.html", async context =>
+{
+    context.Response.Redirect("/Index");
+});
 
 app.Run();

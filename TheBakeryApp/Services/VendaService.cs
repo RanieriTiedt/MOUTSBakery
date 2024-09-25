@@ -45,7 +45,14 @@ namespace TheBakeryApp.Services
                 venda.ClienteId = null;
             }
             var v = _context.Vendas.OrderByDescending(x => x.Id).FirstOrDefault();
-            venda.NumeroCupomFiscal = v.NumeroCupomFiscal + 1;
+            if (v != null)
+            {
+                venda.NumeroCupomFiscal = v.NumeroCupomFiscal + 1;
+            } else
+            {
+                venda.NumeroCupomFiscal = 1;
+            }
+            
             venda.DataVenda = DateTime.Now;
             _context.Vendas.Add(venda);
             await _context.SaveChangesAsync();

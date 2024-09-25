@@ -13,14 +13,5 @@
 
         public List<VendaProduto> VendasProduto { get; set; } = new List<VendaProduto>();
 
-
-        public void ComputarPontos(Venda venda)
-        {
-            if (venda.Cliente != null)
-            {
-                int pontosGanhos = (int)(venda.Total / 10); // Exemplo: 1 ponto a cada R$10
-                venda.Cliente.Pontos += pontosGanhos;
-            }
-        }
     }
 }
