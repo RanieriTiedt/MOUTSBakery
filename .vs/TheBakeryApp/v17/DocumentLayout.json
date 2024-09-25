@@ -71,8 +71,7 @@
               "RelativeToolTip": "TheBakeryApp\\Services\\VendaService.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T00:58:07.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T00:58:07.107Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "TheBakeryApp\\Model\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T00:47:42.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T00:47:42.824Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "TheBakeryApp\\Interfaces\\IProduto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T00:41:39.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T00:41:39.98Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "TheBakeryApp\\Pages\\Venda\\Index.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwCgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T00:34:29.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T00:34:29.632Z"
             },
             {
               "$type": "Document",
@@ -121,7 +117,7 @@
               "RelativeDocumentMoniker": "TheBakeryApp\\Pages\\Venda\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Create.cshtml.cs",
               "RelativeToolTip": "TheBakeryApp\\Pages\\Venda\\Create.cshtml.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAuwEQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T00:25:27.298Z",
               "EditorCaption": ""
@@ -136,8 +132,7 @@
               "RelativeToolTip": "TheBakeryApp\\Model\\Venda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T00:26:09.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T00:26:09.627Z"
             },
             {
               "$type": "Document",
@@ -149,8 +144,7 @@
               "RelativeToolTip": "TheBakeryApp\\Model\\VendaProduto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T00:26:05.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T00:26:05.211Z"
             },
             {
               "$type": "Document",
@@ -160,7 +154,7 @@
               "RelativeDocumentMoniker": "TheBakeryApp\\Pages\\Venda\\Create.cshtml",
               "ToolTip": "C:\\Users\\ranie\\source\\repos\\TheBakeryApp\\TheBakeryApp\\TheBakeryApp\\Pages\\Venda\\Create.cshtml",
               "RelativeToolTip": "TheBakeryApp\\Pages\\Venda\\Create.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFAAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-25T00:18:55.837Z",
               "EditorCaption": ""
